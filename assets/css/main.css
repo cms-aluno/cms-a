@@ -2360,10 +2360,10 @@ html {
 
 body {
 	background-color: #935d8c;
-	background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-	background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-	background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-	background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+	background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #30cfd0 15%, #330867 85%);
+	background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #30cfd0 15%, #330867 85%);
+	background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #30cfd0 15%, #330867 85%);
+	background-image: url("images/overlay.png"), linear-gradient(45deg, #30cfd0 15%, #330867 85%);
 }
 
 body.is-preload *,
@@ -4305,7 +4305,7 @@ textarea {
 	appearance: none;
 	border-radius: 8px;
 	border: solid 1px;
-	color: inherit;
+	color: black;
 	display: block;
 	outline: 0;
 	padding: 0 1em;
